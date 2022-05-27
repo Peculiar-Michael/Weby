@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.mydiv{
+    background-image: url('wonder.jpg'); 
+    padding-bottom: 200px;
+    margin: auto;
+    width:auto;
+}
+ ul{
+     list-style-type: none;
+     text-align: center;
+ 
+ }
+ li {
+     display: inline-block;
+     margin: 10px;
+     font-size: 12px;
+ 
+}
+a {
+    color:whitesmoke;
+}
+h1{
+padding-top: 50px;
+padding-bottom: 10px;
+    color:whitesmoke;
+    text-align: center;
+    margin-top: 100px;
+}
+.text{
+    color:#F9F3EE;
+}
+p{
+    color: #E9D5CA;
+ 
+}
+.intro{
+    width: 78%;
+    line-height: 2;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    
+}
+
+
+.fa-brands{
+    color: #E9D5CA;
+    margin: 10px;
+    padding-top: 10px; 
+    
+}
+.second-container {
+    
+    background-color: #262626;
+    line-height: 2;
+    margin: auto;
+    width: 100%;
+    text-align: left;
+    padding-left: 35px;
+    padding-bottom: 100px;
+    
+}
+.lorem{
+    color: #707070;
+    font-size: 16px;
+}
+.myp{
+    color: whitesmoke;
+    padding-top: 50px;
+}
+.sly{
+    color: whitesmoke;
+    padding-top: 20px;
+}
+.anotherp{
+    color: #707070;
+    font-size: 16px;
+    
+}
+.btn{
+    width: 40%;
+    font-size: 16px;
+    padding: 12px 30px;
+    border: none;
+    color: whitesmoke;
+    background-color: #707070;
+    cursor: pointer;
+    
+}
